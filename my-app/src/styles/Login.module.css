@@ -1,0 +1,35 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;   
+}
+
+
+#loginContainer {
+    width: 100% !important;
+    max-width: 100%;
+    background-color: #FFF !important;
+    height: 100% !important;
+}
+
+.login {
+    display: flex;
+    flex-direction: column !important;
+    width: 400px;
+    max-width: calc(100% - 20px);
+    margin: auto;
+    padding: 5px;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+}
+
+.logo {
+    width: 400px;
+    height: 95px;
+    margin: 0 auto;
+    background-image: url('https://cloudfront.private-radar.com/img/logo/logo_login.png');
+    background-repeat: no-repeat;
+}
+
