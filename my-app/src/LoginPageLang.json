@@ -1,0 +1,35 @@
+[
+    {
+      "en": {
+        "fsms": "Flight School Management System",
+        "usernameEmail": "Username / Email",
+        "password": "Password",
+        "signin": "SIGN IN",
+        "forgotPassword": "I forgot my password!",
+        "fillEmailUsername": "Please enter an email or a username",
+        "fillPassword": "Please enter a password",
+        "rememberMe": "Remember me"
+      },
+      "fr": {
+        "fsms": "Flight School Management System",
+        "usernameEmail": "Username / Email",
+        "password": "Password",
+        "signin": "SIGN IN",
+        "forgotPassword": "I forgot my password!",
+        "fillEmailUsername": "Please enter an email or a username",
+        "fillPassword": "Please enter a password",
+        "rememberMe": "Remember me"
+      },
+      "es": {
+        "fsms": "Flight School Management System",
+        "usernameEmail": "Username / Email",
+        "password": "Password",
+        "signin": "SIGN IN",
+        "forgotPassword": "I forgot my password!",
+        "fillEmailUsername": "Please enter an email or a username",
+        "fillPassword": "Please enter a password",
+        "rememberMe": "Remember me"
+      }
+    }
+  ]
+  

@@ -33,3 +33,37 @@
     background-repeat: no-repeat;
 }
 
+.subtitle {
+    text-align: center;
+    margin: 20px 0 30px;
+    font-size: 1.5em;
+}
+
+.loginUser {
+    margin-top: 0 !important;
+}
+
+.loginPwd {
+    margin-top: 20px !important;
+    color: rgba(0, 0, 0, 0.87) !important;
+}
+
+.loginBtn {
+    background-color: #1d70b8 !important;
+    color:#FFF !important;
+    margin: 1em 9em !important;
+    padding: 1.4em !important;
+    font-weight: bold !important;
+}
+
+.loginBtn:hover {
+    opacity: 0.8;
+}
+
+label {
+    display: flex !important;
+    align-items: center  !important;
+    justify-content: center !important;
+}
+
+
